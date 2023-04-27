@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="500px" src="img/titanic_logo.png">
+    <img width="500px" src="img/Titanic.png">
 </p>
 
 ___
@@ -19,15 +19,8 @@ Objeto de estudo são os dados do Titanic, com o objetivo de prever a quantidade
 * CRISP_DM - Cross Industry Standard Process for Data Mining.
 * Chart Visualization
 
-<p align="left">
-
-<img width="30px" src="img/alvo.jpg">
-</p>
-
-
-___
-
 # Arquitetura:
+Em desenvolvimento
 
 ___
 # Ferramentas:
