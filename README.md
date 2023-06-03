@@ -59,7 +59,8 @@ ___
 ___
 # Contato:
 
-[<img src="https://avatars.githubusercontent.com/u/71607298?v=4" width=115><br><sub>**Nilva Pires**</sub>](https://github.com/nilva2020)    
+[<img src="https://avatars.githubusercontent.com/u/71607298?v=4" width=115><br><sub>**Nilva Pires**</sub>](https://github.com/nilva2020) 
+   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nilva-pires/)](https://www.linkedin.com/in/nilva-pires/)
 ___
 Developer - 2023 - Nilva Pires - DataScience.
